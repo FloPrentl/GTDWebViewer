@@ -1,0 +1,41 @@
+
+.tabs {
+  background-color: WhiteSmoke;
+  color: black
+}
+
+.tabsContentContainer {
+  background-color: WhiteSmoke;
+  color: black
+}
+
+.formGrid {
+  padding: 0px;
+}
+
+.formButtonRow {
+  padding: 0px;
+  padding-top: 8px;
+}
+
+.formButtonRowColumn {
+  padding: 0px;
+}
+
+.formContentRow {
+  padding: 0px;
+}
+
+.formContentRowLeftColumn {
+  padding: 0px;
+}
+
+.formContentRowMidColumn {
+  padding: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.formContentRowRightColumn {
+  padding: 0px;
+}
